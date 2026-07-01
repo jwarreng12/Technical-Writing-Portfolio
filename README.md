@@ -4,7 +4,9 @@
 
 ![EP Doc Center](/images/EP_Doc_Center.png)
 
-I co-authored the EP Doc Center through collaboration with the cross-functional team. The EP Doc Center has the following goals: 
+* I built the EP Doc Center from scratch. The EP Doc Center is a portal to centralize content, improve discoverability, and enable Meta's engineers/cross functional teams to find/write content and build Meta software.
+
+co-authored the EP Doc Center through collaboration with the cross-functional team. The EP Doc Center has the following goals: 
 <ul>
   <li><b>Content discoverability</b>. Having all product documentation in a single dedicated wiki eliminates the need for stakeholders to spend excessive time searching for documentation.</li>
   <li><b>Consistency</b>. Employing an information architecture organizing content based on team groups, reflecting Enterprise Product's operational processes. This speeds navigation by consistently classifying content. Additionally, I built templates to standardize product page content. This ensures stakeholders are presented with a consistent format across the portfolio of products.</li>
