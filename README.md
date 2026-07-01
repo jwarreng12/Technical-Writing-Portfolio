@@ -4,14 +4,19 @@
 
 ![EP Doc Center](/images/EP_Doc_Center.png)
 
-* I built the EP Doc Center from scratch. The EP Doc Center is a portal to centralize content, improve discoverability, and enable Meta's engineers/cross functional teams to find/write content and build Meta software.
+I built the EP Doc Center from scratch. The EP Doc Center is a portal to centralize content, improve discoverability, and enable Meta's engineers/cross functional teams to find/write content and build Meta software.
 
-co-authored the EP Doc Center through collaboration with the cross-functional team. The EP Doc Center has the following goals: 
+<b>Goals</b>
 <ul>
   <li><b>Content discoverability</b>. Having all product documentation in a single dedicated wiki eliminates the need for stakeholders to spend excessive time searching for documentation.</li>
-  <li><b>Consistency</b>. Employing an information architecture organizing content based on team groups, reflecting Enterprise Product's operational processes. This speeds navigation by consistently classifying content. Additionally, I built templates to standardize product page content. This ensures stakeholders are presented with a consistent format across the portfolio of products.</li>
+  <li><b>Consistency</b>. Employing an information architecture organizing content based on team groups, reflecting Enterprise Product's operational processes. This speeds navigation by consistently classifying content. Additionally, I built 54 AI-optimized templates to standardize product page content. This ensures stakeholders are presented with a consistent format across the portfolio of products.</li>
   <li><b>Velocity</b>. Standardizing the information architecture and page structure expedites the creation and curation of high-quality content. This also makes it possible for stakeholders to help crowdsource the documentation</li>
-  </ul>
+</ul>
+
+<b>Sucess Metrics</b>
+
+The EP Doc Center is the most visted wiki at Meta with 168k+ visits each month and 2 million+ views since launch.
+
   
 ---
 
