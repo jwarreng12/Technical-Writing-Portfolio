@@ -2,7 +2,7 @@
 
 ## EP Doc Center
 
-![EP Doc Center](/images/EPDC.jpg)
+![EP Doc Center](/images/EPDC.png)
 Placeholder for image of EP Documentation Center
 Placeholder for description of EP Documentation Center
 
