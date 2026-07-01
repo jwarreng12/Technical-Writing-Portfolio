@@ -3,9 +3,6 @@
 ## EP Doc Center
 
 ![EP Doc Center](/images/EP_Doc_Center.png)
-Placeholder for image of EP Documentation Center
-Placeholder for description of EP Documentation Center
-
 
 I co-authored the EP Doc Center through collaboration with the cross-functional team. The EP Doc Center has the following goals: 
 <ul>
