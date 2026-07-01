@@ -4,7 +4,8 @@
 
 ![EP Doc Center](/images/EP_Doc_Center.png)
 
-> [!NOTE] I built the EP Doc Center from scratch. The EP Doc Center is a portal to centralize content, improve discoverability, and enable Meta's engineers/cross functional teams to find/write content and build Meta software.
+> [!NOTE]
+> I built the EP Doc Center from scratch. The EP Doc Center is a portal to centralize content, improve discoverability, and enable Meta's engineers/cross functional teams to find/write content and build Meta software.
 
 <b>Goals</b>
 <ul>
