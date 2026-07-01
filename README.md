@@ -2,7 +2,7 @@
 
 ## Meta
 
-As a Documentation Engineer at Meta, I built a platform from scratch to centralize content and improve discoverability, led teams to create user guides, FAQs, onboarding content, and other self-serve resources, led a company-wide migration to Google Workspace, participated in the design, testing, and implementation of an AI-powered bot to support the Google Workspace migration, and built 54 AI-optimized authoring templates to support content development. These experiences have strengthened my writing skills, content architecture skills, strategy mindset, my ability to partner with large cross-functional teams, and my skills with AI-assisted content development.
+As a Documentation Engineer at Meta, I built a platform from scratch to centralize content and improve discoverability, led global teams to create user guides and engineering documentation, FAQs, onboarding content, and other self-serve resources, led a company-wide migration to Google Workspace, participated in the design, testing, and implementation of an AI-powered bot to support the Google Workspace migration, and built 54 AI-optimized authoring templates to support content development. These experiences have strengthened my writing skills, content architecture skills, strategy mindset, my ability to partner with large cross-functional teams, and my skills with AI-assisted content development.
 
 ## EP Doc Center
 
