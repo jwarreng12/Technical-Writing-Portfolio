@@ -1,5 +1,9 @@
 # Technical Writing Portfolio
 
+## Meta
+
+As a Documentation Engineer at Meta, I built a platform from scratch to centralize content and improve discoverability, led teams to create user guides, FAQs, onboarding content, and other self-serve resources, led a company-wide migration to Google Workspace, participated in the design, testing, and implementation of an AI-powered bot to support the Google Workspace migration, and built 54 AI-optimized authoring templates to support content development. These experiences have strengthened my writing skills, content architecture skills, strategy mindset, my ability to partner with large cross-functional teams, and my skills with AI-assisted content development.
+
 ## EP Doc Center
 
 ![EP Doc Center](/images/EP_Doc_Center.png)
@@ -24,7 +28,7 @@ The EP Doc Center is the most visted wiki at Meta with 168k+ visits each month a
 
 ## Boomi
 
-As a Senior Technical Writer, I wrote engineering documentation for application connectors (Amazon, Google, Microsoft, etc.) and technology connectors (HTTP, LDAP, etc.) connecting and transforming data between applications across cloud and hybrid IT environments. Additionally, I wrote engineering documentation for building connectors using the Connector Software Development Kit (SDK).
+As a Senior Technical Writer at Boomi, I wrote engineering documentation for application connectors (Amazon, Google, Microsoft, etc.) and technology connectors (HTTP, LDAP, etc.) connecting and transforming data between applications across cloud and hybrid IT environments. Additionally, I wrote engineering documentation for building connectors using the Connector Software Development Kit (SDK).
 
 Here are a few samples of documentation I created at Boomi:
 
