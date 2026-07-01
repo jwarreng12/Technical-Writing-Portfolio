@@ -34,16 +34,15 @@ As a Senior Technical Writer at Boomi, I wrote engineering documentation for app
 
 ## Writing Samples
 
-<ul>
-  <li>[Tutorial: Building a custom connector](https://developer.boomi.com/docs/category/getting-started-with-connector-development)
-I wrote this tutorial to help engineers build a custom connector using the Boomi Connector Software Development Kit (SDK).</li>
+[Tutorial: Building a custom connector](https://developer.boomi.com/docs/category/getting-started-with-connector-development)
+I wrote this tutorial to help engineers build a custom connector using the Boomi Connector Software Development Kit (SDK).
 
-  <li>[Amazon S3 REST Connector](https://help.boomi.com/docs/atomsphere/integration/connectors/r-atm-amazon_s3_rest_connector_bc37d2c7-9ea6-41b7-931b-9eb0c2a80640)
-I wrote this connector documentation to explain how to use the Amazon S3 REST connector to simply and securely store and retrieve any amount of data from anywhere on the Web. You can use a Boomi Integration process to upload, store, retrieve, filter, and delete object data from an Amazon S3 bucket.</li>
+[Amazon S3 REST Connector](https://help.boomi.com/docs/atomsphere/integration/connectors/r-atm-amazon_s3_rest_connector_bc37d2c7-9ea6-41b7-931b-9eb0c2a80640)
+I wrote this connector documentation to explain how to use the Amazon S3 REST connector to simply and securely store and retrieve any amount of data from anywhere on the Web. You can use a Boomi Integration process to upload, store, retrieve, filter, and delete object data from an Amazon S3 bucket.
 
-  <li>[Tutorial: Building a Boom integration](https://help.boomi.com/docs/Atomsphere/Integration/Getting%20started/int-Building_a_Boomi_Integration)
-I wrote this tutorial to help Boomi Users and Engineers build their first Integration process and understand the power and simplicity of the Boomi Integration Platform.</li>
+[Tutorial: Building a Boom integration](https://help.boomi.com/docs/Atomsphere/Integration/Getting%20started/int-Building_a_Boomi_Integration)
+I wrote this tutorial to help Boomi Users and Engineers build their first Integration process and understand the power and simplicity of the Boomi Integration Platform.
 
-</ul>
+
 
 
