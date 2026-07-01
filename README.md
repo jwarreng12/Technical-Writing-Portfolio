@@ -32,9 +32,9 @@ Here are a few samples of documentation I created at Boomi:
 I wrote this tutorial to help engineers build a custom connector using the Boomi Connector Software Development Kit (SDK).
 
 [Amazon S3 REST Connector](https://help.boomi.com/docs/atomsphere/integration/connectors/r-atm-amazon_s3_rest_connector_bc37d2c7-9ea6-41b7-931b-9eb0c2a80640)
-I wrote the Amazon S3 REST Connector documentation to explain how to use the Amazon S3 REST connector to simply and securely store and retrieve any amount of data from anywhere on the Web. You can use a Boomi Integration process to upload, store, retrieve, filter, and delete object data from an Amazon S3 bucket.
+I wrote this connector documentation to explain how to use the Amazon S3 REST connector to simply and securely store and retrieve any amount of data from anywhere on the Web. You can use a Boomi Integration process to upload, store, retrieve, filter, and delete object data from an Amazon S3 bucket.
 
-Tutorial: Building your first Integration process
-I wrote the Tutorial: Building your first Integration process to help Boomi Users and Engineers build their first Integration process and understand the power and simplicity of the Boomi Integration Platform.
+[Tutorial: Building a Boom integration](https://help.boomi.com/docs/Atomsphere/Integration/Getting%20started/int-Building_a_Boomi_Integration)
+I wrote this tutorial to help Boomi Users and Engineers build their first Integration process and understand the power and simplicity of the Boomi Integration Platform.
 
 
