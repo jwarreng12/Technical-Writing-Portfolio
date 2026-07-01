@@ -2,9 +2,11 @@
 
 ## Meta
 
-As a Documentation Engineer at Meta, I built a platform from scratch to centralize content and improve discoverability, led global teams to create user guides and engineering documentation, FAQs, onboarding content, and other self-serve resources, led a company-wide migration to Google Workspace, participated in the design, testing, and implementation of an AI-powered bot to support the Google Workspace migration, and built 54 AI-optimized authoring templates to support content development. These experiences have strengthened my writing skills, content architecture skills, strategy mindset, my ability to partner with large cross-functional teams, and my skills with AI-assisted content development.
+As a Documentation Engineer at Meta, I built a centralized documentation platform from the ground up to improve content discoverability, led global cross-functional teams in developing technical documentation and self-service resources, spearheaded a company-wide Google Workspace migration—including the design, testing, and implementation of an AI-powered support bot, and created 54 AI-optimized authoring templates to scale content development. These experiences strengthened my expertise in content strategy, information architecture, cross-functional leadership, and AI-assisted content design.
 
-## EP Doc Center
+## Writing Samples
+
+### EP Doc Center
 
 ![EP Doc Center](/images/EP_Doc_Center.png)
 
@@ -30,15 +32,18 @@ The EP Doc Center is the most visted wiki at Meta with 168k+ visits each month a
 
 As a Senior Technical Writer at Boomi, I wrote engineering documentation for application connectors (Amazon, Google, Microsoft, etc.) and technology connectors (HTTP, LDAP, etc.) connecting and transforming data between applications across cloud and hybrid IT environments. Additionally, I wrote engineering documentation for building connectors using the Connector Software Development Kit (SDK).
 
-Here are a few samples of documentation I created at Boomi:
+## Writing Samples
 
-[Tutorial: Building a custom connector](https://developer.boomi.com/docs/category/getting-started-with-connector-development)
-I wrote this tutorial to help engineers build a custom connector using the Boomi Connector Software Development Kit (SDK).
+<ul>
+  <li>[Tutorial: Building a custom connector](https://developer.boomi.com/docs/category/getting-started-with-connector-development)
+I wrote this tutorial to help engineers build a custom connector using the Boomi Connector Software Development Kit (SDK).</li>
 
-[Amazon S3 REST Connector](https://help.boomi.com/docs/atomsphere/integration/connectors/r-atm-amazon_s3_rest_connector_bc37d2c7-9ea6-41b7-931b-9eb0c2a80640)
-I wrote this connector documentation to explain how to use the Amazon S3 REST connector to simply and securely store and retrieve any amount of data from anywhere on the Web. You can use a Boomi Integration process to upload, store, retrieve, filter, and delete object data from an Amazon S3 bucket.
+  <li>[Amazon S3 REST Connector](https://help.boomi.com/docs/atomsphere/integration/connectors/r-atm-amazon_s3_rest_connector_bc37d2c7-9ea6-41b7-931b-9eb0c2a80640)
+I wrote this connector documentation to explain how to use the Amazon S3 REST connector to simply and securely store and retrieve any amount of data from anywhere on the Web. You can use a Boomi Integration process to upload, store, retrieve, filter, and delete object data from an Amazon S3 bucket.</li>
 
-[Tutorial: Building a Boom integration](https://help.boomi.com/docs/Atomsphere/Integration/Getting%20started/int-Building_a_Boomi_Integration)
-I wrote this tutorial to help Boomi Users and Engineers build their first Integration process and understand the power and simplicity of the Boomi Integration Platform.
+  <li>[Tutorial: Building a Boom integration](https://help.boomi.com/docs/Atomsphere/Integration/Getting%20started/int-Building_a_Boomi_Integration)
+I wrote this tutorial to help Boomi Users and Engineers build their first Integration process and understand the power and simplicity of the Boomi Integration Platform.</li>
+
+</ul>
 
 
