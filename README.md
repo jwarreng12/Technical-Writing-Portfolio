@@ -28,8 +28,8 @@ As a Senior Technical Writer, I wrote engineering documentation for application 
 
 Here are a few samples of documentation I created at Boomi:
 
-[Tutorial: Building a custom connector](https://developer.boomi.com/docs/category/getting-started-with-connector-development)
-I wrote the Tutorial: Building a custom connector to help developers build a custom connector using the Boomi Connector Software Development Kit (SDK).
+[Tutorial: Building a custom connector] (https://developer.boomi.com/docs/category/getting-started-with-connector-development)
+I wrote this tutorial to help engineers build a custom connector using the Boomi Connector Software Development Kit (SDK).
 
 Amazon S3 REST Connector
 I wrote the Amazon S3 REST Connector documentation to explain how to use the Amazon S3 REST connector to simply and securely store and retrieve any amount of data from anywhere on the Web. You can use a Boomi Integration process to upload, store, retrieve, filter, and delete object data from an Amazon S3 bucket.
